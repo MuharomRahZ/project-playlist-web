@@ -1,0 +1,28 @@
+{
+    "genre": [
+        {
+            "jenis": "Pop",
+            "deskripsi": "...",            
+            "gambar": "pop.jpg",
+            "link": ""
+        },
+        {
+            "jenis": "R&B",
+            "deskripsi": "...",            
+            "gambar": "rnb.jpg",
+            "link": ""
+        },
+        {
+            "jenis": "Rock",
+            "deskripsi": "...",            
+            "gambar": "rock.jpg",
+            "link": ""
+        },
+        {
+            "jenis": "Jazz",
+            "deskripsi": "...",            
+            "gambar": "jazz.jpg",
+            "link": ""
+        }
+    ]
+}

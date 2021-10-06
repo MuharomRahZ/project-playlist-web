@@ -1,0 +1,28 @@
+{
+    "menu": [
+        {
+            "nama": "All Songs",
+            "deskripsi": "...",            
+            "gambar": "songs.jpg",
+            "link": "playlist-by-all-songs.php"
+        },
+        {
+            "nama": "Genre",
+            "deskripsi": "...",            
+            "gambar": "genre.jpg",
+            "link": "playlist-by-genre.php"
+        },
+        {
+            "nama": "Mood",
+            "deskripsi": "...",            
+            "gambar": "mood.jpg",
+            "link": "playlist-by-mood.php"
+        },
+        {
+            "nama": "Artist",
+            "deskripsi": "...",            
+            "gambar": "artist.jpg",
+            "link": "playlist-by-artist.php"
+        }
+    ]
+}

@@ -1,0 +1,517 @@
+{
+    "lagu": [
+        {
+            "artis": "Naff",
+            "lagu": "Akhirnya Ku Menemukanmu",
+            "album": "Isyarat Hati",
+            "genre": "Pop",
+            "durasi": "05:06",
+            "gambar": "naff_isyarat.jpg",
+            "link": "https://youtu.be/2d2TW4fKFG4"
+        },
+        {
+            "artis": "Cokelat",
+            "lagu": "Luka Lama",
+            "album": "Rasa Baru",
+            "genre": "Pop",
+            "durasi": "03:55",
+            "gambar": "cokelat-band.jpg",
+            "link": "https://youtu.be/vHJI7z75oh4"
+        },
+        {
+            "artis": "J-Rocks",
+            "lagu": "Kau Curi Lagi",
+            "album": "Spirit",
+            "genre": "Rock",
+            "durasi": "04:07",
+            "gambar": "j-rocks.jpg",
+            "link": "https://youtu.be/pTll5RY820U"
+        },
+        {
+            "artis": "Padi",
+            "lagu": "Menanti Sebuah Jawaban",
+            "album": "Padi",
+            "genre": "Rock",
+            "durasi": "04:35",
+            "gambar": "padi-band.jpg",
+            "link": "https://youtu.be/nXoHBb-NsvY"
+        },
+        {
+            "artis": "Rocket Rockers",
+            "lagu": "Dia",
+            "album": "Ton of Friends",
+            "genre": "Rock",
+            "durasi": "04:03",
+            "gambar": "rocket-rockers.jpg",
+            "link": "https://youtu.be/SbmFV0efqCc"
+        },
+        {
+            "artis": "La Luna",
+            "lagu": "Selepas Kau Pergi",
+            "album": "Menanti Pagi",
+            "genre": "Pop",
+            "durasi": "04:17",
+            "gambar": "laluna.jpg",
+            "link": "https://youtu.be/LEOzxFqTy9M"
+        },
+        {
+            "artis": "Sheila On 7",
+            "lagu": "Kita",
+            "album": "Sheila On 7",
+            "genre": "Pop",
+            "durasi": "03:45",
+            "gambar": "sheila-on-7.jpg",
+            "link": "https://youtu.be/oOXba6xE41Q"
+        },
+        {
+            "artis": "Last Child",
+            "lagu": "Seluruh Nafas Ini",
+            "album": "Our Biggest Thing Ever",
+            "genre": "Pop",
+            "durasi": "04:53",
+            "gambar": "last-child.jpg",
+            "link": "https://youtu.be/Ske9Nwk-TmA"
+        },
+        {
+            "artis": "Dewa 19",
+            "lagu": "Pupus",
+            "album": "Cintailah Cinta",
+            "genre": "Rock",
+            "durasi": "05:06",
+            "gambar": "dewa-19.jpg",
+            "link": "https://youtu.be/VQ-qjEV1m6M"
+        },
+        {
+            "artis": "Ada Band",
+            "lagu": "Senandung Lagu Cinta",
+            "album": "Romantic Rhapsody",
+            "genre": "Pop",
+            "durasi": "04:13",
+            "gambar": "ada-band.jpg",
+            "link": "https://youtu.be/NN4A7PrDMNU"
+        },
+        {
+            "artis": "Kerispatih",
+            "lagu": "Bila Rasaku Ini Rasamu",
+            "album": "Tak Lekang Oleh Waktu",
+            "genre": "Pop",
+            "durasi": "04:35",
+            "gambar": "kerispatih.jpg",
+            "link": "https://youtu.be/kSbQo03yOiI"
+        },
+        {
+            "artis": "Samsons",
+            "lagu": "Kenangan Terindah",
+            "album": "Naluri Lelaki",
+            "genre": "Pop",
+            "durasi": "04:11",
+            "gambar": "samsons.jpg",
+            "link": "https://youtu.be/-yG8j2MGOyY"
+        },
+        {
+            "artis": "Noah",
+            "lagu": "Ku Katakan Dengan Indah",
+            "album": "Bintang di Surga",
+            "genre": "Pop",
+            "durasi": "05:33",
+            "gambar": "noah.jpg",
+            "link": "https://youtu.be/GrwXogA8Gxg"
+        },
+        {
+            "artis": "Kangen Band",
+            "lagu": "Tentang Aku, Kau, dan Dia",
+            "album": "Tentang Aku, Kau, dan Dia",
+            "genre": "Pop",
+            "durasi": "05:46",
+            "gambar": "kangen-band.jpg",
+            "link": "https://youtu.be/3ucQG2HQxMc"
+        },
+        {
+            "artis": "Wali",
+            "lagu": "Takkan Pisah",
+            "album": "Takkan Pisah (single)",
+            "genre": "Pop",
+            "durasi": "05:20",
+            "gambar": "wali-band.jpg",
+            "link": "https://youtu.be/sSthIYOJlKQ"
+        },
+        {
+            "artis": "Firman Siagian",
+            "lagu": "Kehilangan",
+            "album": "Separuh Hati",
+            "genre": "Pop",
+            "durasi": "04:38",
+            "gambar": "firman-siagian.jpg",
+            "link": "https://youtu.be/y5v6THcwgfA"
+        },
+        {
+            "artis": "Hello Band",
+            "lagu": "Dua Cincin",
+            "album": "Kepala Batu",
+            "genre": "Pop",
+            "durasi": "04:35",
+            "gambar": "hello-band.jpg",
+            "link": "https://youtu.be/QrupIQIGIqI"
+        },
+        {
+            "artis": "Merpati Band",
+            "lagu": "Tak Selamanya Selingkuh Itu Indah",
+            "album": "Tak Selamanya Selingkuh Itu Indah",
+            "genre": "Pop",
+            "durasi": "04:42",
+            "gambar": "merpati-band.jpg",
+            "link": "https://youtu.be/VQocvKLjX-s"
+        },
+        {
+            "artis": "Utopia",
+            "lagu": "Hujan",
+            "album": "Indah",
+            "genre": "Pop",
+            "durasi": "03:47",
+            "gambar": "utopia.jpg",
+            "link": "https://youtu.be/G4nNBckyZQU"
+        },
+        {
+            "artis": "Potret",
+            "lagu": "Salah",
+            "album": "Potret II",
+            "genre": "Pop",
+            "durasi": "03:38",
+            "gambar": "potret.jpg",
+            "link": "https://youtu.be/j6t2xk_Qemg"
+        },
+        {
+            "artis": "Bryan Adams",
+            "lagu": "Heaven",
+            "album": "Reckless",
+            "genre": "Rock",
+            "durasi": "04:03",
+            "gambar": "bryan-adams.jpg",
+            "link": "https://youtu.be/s6TtwR2Dbjg"
+        },
+        {
+            "artis": "Reza Artamevia",
+            "lagu": "Berharap Tak Berpisah",
+            "album": "Keyakinan",
+            "genre": "Pop",
+            "durasi": "04:04",
+            "gambar": "reza-artamevia.jpg",
+            "link": "https://youtu.be/luuLltBSqA0"
+        },
+        {
+            "artis": "Shania Twain",
+            "lagu": "You're Still The One",
+            "album": "Come On Over",
+            "genre": "Country",
+            "durasi": "03:21",
+            "gambar": "shania-twain.jpg",
+            "link": "https://youtu.be/KNZH-emehxA"
+        },
+        {
+            "artis": "Andra and The Backbone",
+            "lagu": "Sempurna",
+            "album": "Andra and The Backbone",
+            "genre": "Rock",
+            "durasi": "04:26",
+            "gambar": "andra-n-backbone.jpg",
+            "link": "https://youtu.be/jStNaVCW838"
+        },
+        {
+            "artis": "ST12",
+            "lagu": "Saat Terakhir",
+            "album": "P.U.S.P.A",
+            "genre": "Pop",
+            "durasi": "04:45",
+            "gambar": "st-12.jpg",
+            "link": "https://youtu.be/s45w3pIqmn8"
+        },
+        {
+            "artis": "Nineball",
+            "lagu": "Hingga Akhir Waktu",
+            "album": "Hingga Akhir Waktu",
+            "genre": "Pop",
+            "durasi": "04:31",
+            "gambar": "nineball.jpg",
+            "link": "https://youtu.be/b74sv-RrBC8"
+        },
+        {
+            "artis": "Tulus",
+            "lagu": "Sewindu",
+            "album": "Tulus",
+            "genre": "Pop",
+            "durasi": "04:32",
+            "gambar": "tulus.jpg",
+            "link": "https://youtu.be/wpst_4m_c-E"
+        },
+        {
+            "artis": "Hivi!",
+            "lagu": "Orang ke 3",
+            "album": "Say Hi to Hivi!",
+            "genre": "Pop",
+            "durasi": "04:05",
+            "gambar": "hivi.jpg",
+            "link": "https://youtu.be/7bJJXa49bEk"
+        },
+        {
+            "artis": "Kunto Aji",
+            "lagu": "Rehat",
+            "album": "Mantra Mantra",
+            "genre": "Pop",
+            "durasi": "05:55",
+            "gambar": "kunto-aji.jpg",
+            "link": "https://youtu.be/rJ0ECZz8re0"
+        },
+        {
+            "artis": "Coldplay",
+            "lagu": "Yellow",
+            "album": "Yellow",
+            "genre": "Rock",
+            "durasi": "04:29",
+            "gambar": "coldplay.jpg",
+            "link": "https://youtu.be/yKNxeF4KMsY"
+        },
+        {
+            "artis": "Maroon 5",
+            "lagu": "Sunday Morning",
+            "album": "Songs About Jane",
+            "genre": "Pop",
+            "durasi": "04:05",
+            "gambar": "maroon-5.jpg",
+            "link": "https://youtu.be/892Z6nvxwvs"
+        },
+        {
+            "artis": "Bruno Mars",
+            "lagu": "Versace on The Floor",
+            "album": "24K Magic",
+            "genre": "R&B",
+            "durasi": "04:21",
+            "gambar": "bruno-mars.jpg",
+            "link": "https://youtu.be/-FyjEnoIgTM"
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        },
+        {
+            "artis": "...",
+            "lagu": "...",
+            "album": "...",
+            "genre": "...",
+            "durasi": "...",
+            "gambar": ".jpg",
+            "link": "..."
+        }
+    ]
+}
